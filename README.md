@@ -5,7 +5,7 @@
 I have more than 5 years of professional experience as a frontend developer, designing websites and web applications.knowledge of the fintech and edtech industries I am familiar with React, Javascript, CSS, Bootstrap, HTML, and other technologies. <br /><br />
 🤔 Looking for a job which would help me make most of my skills.
 
-&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1i0rCJGIGzRTcf-Hq2k3_LZdGQvvdsu03/view)*
+&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1AqIXrTGvFlQiDyPGLG9s-65AWynef9RS/view?usp=sharing)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/rkasale28/rkasale28/tree/master/Certificates)*
 <br />
 
