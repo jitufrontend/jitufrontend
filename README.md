@@ -6,7 +6,7 @@ I have more than 5 years of professional experience as a frontend developer, des
 🤔 Looking for a job which would help me make most of my skills.
 
 &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1AqIXrTGvFlQiDyPGLG9s-65AWynef9RS/view?usp=sharing)*
-&nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/rkasale28/rkasale28/tree/master/Certificates)*
+&nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://drive.google.com/file/d/1-qANlZtQFGHtm-HrDULQJfDdP27XXBcq/view?usp=sharing)*
 <br />
 
 ### Technical Skills
