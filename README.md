@@ -1,5 +1,5 @@
 ### Hi there. I am Jitendra. 👋
-* jitendramistry@gmail.com
+* jitendramistry500@gmail.com
 <img align="right" width="200" height="161" src="https://github.com/rkasale28/rkasale28/blob/master/icons/avatar.jpg">
 
 I have more than 5 years of professional experience as a frontend developer, designing websites and web applications.knowledge of the fintech and edtech industries I am familiar with React, Javascript, CSS, Bootstrap, HTML, and other technologies. <br /><br />
